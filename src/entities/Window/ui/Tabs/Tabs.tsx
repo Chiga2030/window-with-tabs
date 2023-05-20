@@ -11,7 +11,6 @@ export const Tabs = () => {
   const tablist = opennedTabsId.map(id => tabs[ id ])
 
 
-
   return (
     <div className={ styles.wrapper }>
       { tablist.map((tab, index) => (

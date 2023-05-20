@@ -1,0 +1,25 @@
+.window {
+  display: flex;
+}
+
+.menu {
+  background-color: rgba(0, 255, 255, 0.212);
+  height: 100vh;
+  width: 10vw;
+}
+
+.content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs {
+  background-color: rgba(255, 196, 0, 0.438);
+  min-height: 40px;
+}
+
+.tabContent {
+  background-color: rgba(0, 47, 255, 0.089);
+  height: 100%;
+}

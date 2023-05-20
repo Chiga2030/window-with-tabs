@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/window-with-tabs/static/css/main.2984806e.css",
+    "main.js": "/window-with-tabs/static/js/main.343a8b33.js",
+    "index.html": "/window-with-tabs/index.html",
+    "main.2984806e.css.map": "/window-with-tabs/static/css/main.2984806e.css.map",
+    "main.343a8b33.js.map": "/window-with-tabs/static/js/main.343a8b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2984806e.css",
+    "static/js/main.343a8b33.js"
+  ]
+}

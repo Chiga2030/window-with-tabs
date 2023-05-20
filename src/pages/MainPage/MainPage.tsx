@@ -1,7 +1,7 @@
-import { Window } from "../../entities/Window"
+import { WindowWithTabs } from "../../widgets/WindowWithTabs"
 
 export const MainPage = () => {
   return (
-    <Window />
+    <WindowWithTabs />
   )
 }

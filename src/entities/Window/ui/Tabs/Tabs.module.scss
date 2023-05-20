@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  gap: .5rem;
+  padding: .5rem;
+}
+
+.tab {
+  border: 1px solid black;
+  padding: .5rem;
+  cursor: pointer;
+  background-color: rgba(159, 233, 159, 0.822);
+}
